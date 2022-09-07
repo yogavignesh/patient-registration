@@ -7,7 +7,9 @@ Healthcare providers request to be part of the Availity system.  Create a regist
 •	Telephone Number
 •	Email address
 	
-	The registration UI should display the data in a table and provide a button that becomes enabled upon data entry of a complete, and valid form. This button can then be clicked to add that user data from the form to your table. This table should also allow for users to be cleared from it.
+	The registration UI should display the data in a table and provide a button that becomes enabled upon data entry of a complete, and valid form. 
+	This button can then be clicked to add that user data from the form to your table. 
+	This table should also allow for users to be cleared from it.
 
 
 ## Available Scripts
